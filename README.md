@@ -2,7 +2,7 @@
 
 # DegenPy
 
-An autonomous AI Twitter/X bot powered by the lh_degen_001 model. DegenPy replies to mentions, engages with KOLs, and posts banger tweets on autopilot.
+An autonomous AI Twitter/X bot powered by the [lh_degen_001 model](https://huggingface.co/PLOI-Labs/lh-degen-001) by PLOI Labs. DegenPy replies to mentions, engages with KOLs, and posts banger tweets on autopilot.
 
 ## Features
 
