@@ -1,0 +1,5 @@
+.env
+login_cookie
+last_timestamp
+replied_ids
+__pycache__/
